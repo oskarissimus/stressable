@@ -8,3 +8,4 @@
 - [x] create endpoint with waiting to respond
 - [ ] create endpoint for stressing CPU
 - [ ] create endpoint for stressing MEM
+- [ ] deploy to Azure
