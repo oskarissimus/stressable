@@ -5,6 +5,6 @@
 - [x] poetry init
 - [x] add dependencies
 - [x] create hello world
-- [] create endpoint with waiting to respond
-- [] create endpoint for stressing CPU
-- [] create endpoint for stressing MEM
+- [x] create endpoint with waiting to respond
+- [ ] create endpoint for stressing CPU
+- [ ] create endpoint for stressing MEM
