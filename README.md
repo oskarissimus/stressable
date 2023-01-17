@@ -8,4 +8,11 @@
 - [x] create endpoint with waiting to respond
 - [ ] create endpoint for stressing CPU
 - [ ] create endpoint for stressing MEM
-- [ ] deploy to Azure
+
+# TODO 2023-01-17
+- [ ] test locally
+- [ ] dockerize stressable app
+- [ ] deploy stressable to Azure
+- [ ] run locust from local machine
+- [ ] run locust from another instance in Azure
+- [ ] enable auto-scaling
