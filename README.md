@@ -10,8 +10,8 @@
 - [ ] create endpoint for stressing MEM
 
 # TODO 2023-01-17
-- [ ] test locally
-- [ ] dockerize stressable app
+- [x] test locally
+- [x] dockerize stressable app
 - [ ] deploy stressable to Azure
 - [ ] run locust from local machine
 - [ ] run locust from another instance in Azure
