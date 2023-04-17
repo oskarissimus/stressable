@@ -12,7 +12,8 @@
 # TODO 2023-01-17
 - [x] test locally
 - [x] dockerize stressable app
-- [ ] deploy stressable to Azure
-- [ ] run locust from local machine
+- [x] deploy stressable to Azure
+- [x] run locust from local machine
+- [ ] dockerize locust
 - [ ] run locust from another instance in Azure
 - [ ] enable auto-scaling
