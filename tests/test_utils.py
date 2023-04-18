@@ -1,6 +1,7 @@
-from stressable.utils import rot13
-
+import stressable.utils
 
 def test_rot13():
-    assert rot13("test") == "grfg"
-    assert rot13("grfg") == "test"
+    assert stressable.utils.rot13('hello') == 'uryyb'
+
+def test_rot13_empty_string():
+    assert stressable.utils.rot13('') == ''
